@@ -37,11 +37,10 @@
 
 ## 모집 포스터
 
-![](imgs/recruit/00#.png)
-![](imgs/recruit/00#.png)
-![](imgs/recruit/00#.png)
-![](imgs/recruit/00#.png)
-![](imgs/recruit/00#.png)
+![](imgs/recruit/001.png)
+![](imgs/recruit/002.png)
+![](imgs/recruit/003.png)
+![](imgs/recruit/004.png)
 
 ## 가짜연구소 10기 빌더(운영진) 소개
 *상세 소개 내용은 [빌더 소개](https://github.com/Pseudo-Lab/10th-builder/discussions/2)를 참고해주세요.
